@@ -3,6 +3,7 @@ import java.util.Date
 import scala.io.Source
 
 
+//noinspection SourceNotClosed
 object FarmManager {
   def main(args: Array[String]): Unit = {
 
